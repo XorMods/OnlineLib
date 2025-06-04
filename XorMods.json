@@ -1,10 +1,10 @@
 {
-    "serverstatus":"false",
+    "serverstatus":"true",
     "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":" Just wait few more times 🙂",
     "libs":"https://github.com/XorMods/OnlineLib/raw/refs/heads/main/libXorMods.zip",
-    "notice_title":"Welcome Vip Mod",
+    "notice_title":"XorMods VIP Version",
     "notice_body":""
 }
